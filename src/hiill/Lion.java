@@ -13,7 +13,13 @@ public class Lion {
 	public void m3() {
 		System.out.println("me");
 	}
-
+public void m37() {
+		System.out.println("me");
+	}
+	public void m() {
+		System.out.println("me");
+	}
+	
 	public void m4() {
 		{
 			System.out.println("me");
